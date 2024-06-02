@@ -1,0 +1,12 @@
+18:16:45 **** Rebuild of configuration Debug for project BoardForReversi ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC (GIT/SWE/APT)" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -std=c++0x -O0 -g3 -Wall -c -fmessage-length=0 -Wall -Werror=return-type -o "myCode\\ReversiBoard.o" "..\\myCode\\ReversiBoard.cpp" 
+Cannot run program "g++": Launching failed
+
+Error: Program "g++" not found in PATH
+PATH=[\bin;\bin;\usr\bin;C:/Program Files/GIT/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047/jre/bin/server;C:/Program Files/GIT/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047/jre/bin;C:\Windows\system32;C:\Windows;C:\Python310;C:\Python310\Scripts;C:\Users\acer\AppData\Roaming\Python\Python310\Scripts;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\MATLAB\R2022b\bin;C:\Program Files\PuTTY\;C:\Users\acer\AppData\Local\Microsoft\WindowsApps;C:\Users\acer\AppData\Local\Programs\Microsoft VS Code\bin;C:\intelFPGA_lite\18.1\modelsim_ase\win32aloem;C:\intelFPGA\20.1\modelsim_ase\win32aloem;C:\Users\acer\AppData\Local\GitHubDesktop\bin;C:\Windows\system32]
+
+
+18:16:45 Build Finished. 0 errors, 0 warnings. (took 88ms)
+
